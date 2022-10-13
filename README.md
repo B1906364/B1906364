@@ -1,6 +1,6 @@
 ### Hi bạn
 Mình tên là Đặng Huỳnh Thị Tuyết Băng
-Mình đang là sinh viên Đại Học Cần Thơ
+## Mình đang là sinh viên Đại Học Cần Thơ
 
 <!--
 **B1906364/B1906364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
